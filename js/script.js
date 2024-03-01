@@ -65,3 +65,11 @@ const checkWord = () => {
 
 refreshBtn.addEventListener("click", initGame);
 checkBtn.addEventListener("click", checkWord);
+
+// Listen for Enter key press on the input field
+inputField.addEventListener("keydown", (event) => {
+    if (event.key === "Enter") {
+        event.preventDefault(); // Prevent form submission
+        checkWord();
+    }
+});
