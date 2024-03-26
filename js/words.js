@@ -90,5 +90,41 @@ export const words = [
     {
         word: "library",
         hint: "Place containing collection of books"
+    }, 
+    {
+        word: "adventure",
+        hint: "An exciting or unusual experience"
+    },
+    {
+        word: "mystery",
+        hint: "Something that is difficult or impossible to understand or explain"
+    },
+    {
+        word: "solution",
+        hint: "A means of solving a problem or dealing with a difficult situation"
+    },
+    {
+        word: "creativity",
+        hint: "The ability to use imagination to produce new ideas, forms, or interpretations"
+    },
+    {
+        word: "knowledge",
+        hint: "Facts, information, and skills acquired through experience or education"
+    },
+    {
+        word: "discovery",
+        hint: "The act of finding or learning something for the first time"
+    },
+    {
+        word: "exploration",
+        hint: "The action of traveling in or through an unfamiliar area in order to learn about it"
+    },
+    {
+        word: "curiosity",
+        hint: "A strong desire to know or learn something"
+    },
+    {
+        word: "imagination",
+        hint: "The ability to form mental images, sensations, and concepts that are not physically present"
     },
 ]
